@@ -1,278 +1,278 @@
 {
-  "basics": {
-    "first name": "Aditya",
-    "last name": "Satalkar",
-    "label": "",
-    "picture": "https://satalkar.github.io/images/Aditya_Satalkar.JPG.gif",
-    "email": "aditya.satalkar@gmail.com",
-    "phone": "+1(650)-448-8880",
-    "degree": "MS in Computer Science",
-    "website": "https://web.njit.edu/~ars75",
-    "summary": "",
-    "highlights": null,
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Iowa City",
-      "countryCode": "+1",
-      "region": ""
-    },
-    "desired salary":"80000",
-    "currency":"USD",
-    "gender":"male",
-    "hispanic/latino":"no",
-    "veteran":"no",
-    "disability":"no",
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "adityasatalkar",
-        "url": "https://www.linkedin.com/in/adityasatalkar"
-      },
-      {
-        "network": "Facebook",
-        "username": "https://www.facebook.com/adusatalkar",
-        "url": ""
-      },
-      {
-        "network": "Twitter",
-        "username": "Adu.satalkar",
-        "url": "https://www.twitter.com/adusatalkar"
-      },
-      {
-        "network": "Github",
-        "username": "ars75",
-        "url": "https://www.github.com/ars75"
-      }
-
-    ]
-  },
-  "work": [
-    {
-      "company": "ISE",
-      "position": "QA / Software Engineer",
-      "website": "https://www.iseinc.biz/",
-      "location":"Coralville, IA",
-      "startDate": "02/01/2018",
-      "endDate": "present",
-      "summary": "",
-      "highlights": [
-        {
-          "":""
-        },
-        {
-          "":""
-        }
-      ]
-    },
-    {
-      "company": "Apprentice",
-      "position": "Augmented Reality Software Engineer",
-      "website": "https://apprentice.io",
-      "location":"Jersey City, NJ",
-      "startDate": "06/01/2017",
-      "endDate": "01/31/2018",
-      "summary": "",
-      "highlights": [
-        {
-          "AWS Setup:":"Setup AWS EC2 Linux Instances, S3 buckets. Wrote Shell scripts to make S3 buckets SOC-2 compliant. Updated ACL of all public access objects so that only authorized users can access. Used JIRA tickets."
-        },
-        {
-          "Computer Vision:":"Optimized existing AR Android app using Java, Gradle to convert Handwritten text to plain text in real time using Machine Learning and Computer Vision. Also stores a text log on S3 with users profile"
-        },
-        {
-          "3D AR Android App:":"Modified existing code base for dynamically accessing data. Used Java, OpenGl, JSON and ARCore for Android, followed SCRUM, MVC, TDD approach. Developed 3D Models in Blender, Unity."
-        },
-        {
-          "RESTful API:":"Developed REST API using MEAN Stack and used Postman to check if the API works."
-        },
-        {
-          "Tethered Automation Software Update for Vuzix M300 Smartglasses:":"Conducted standups. Wrote power shell script, automated process of downloading S3 object & updating Vuzix M300 smart-glass app via command line"
-        }
-      ]
-    },
-    {
-      "company": "Stud-E-Buddies",
-      "position": "Software Engineer",
-      "website": "www.studebuddies.info",
-      "location":"New York City, NY",
-      "startDate": "03/01/2017",
-      "endDate": "05/31/2017",
-      "summary": "",
-      "highlights": [
-        {
-          "(AWS) Student Portal:":"Designed student platform using open source Moodle. Developed entire platform using functions provided by Moodle to integrate with the web portal and the iOS app. Website hosted on AWS S3."
-        },
-        {
-          "AI Chat-bot:":"Developed an AI chatbot to help students with course management using API.AI"
-        },
-        {
-          "Course Dashboards:":"Developed instructor dashboards and learner surveying tools using Java Spring, SQL which helped instructors run their class better by providing data on Assignments and Learner Activity."
-        },
-        {
-          "Suggestions System:":"Core service for all recommendation systems at Stud-E-Buddies, currently used on the homepage and throughout the content discovery process. Worked on both offline training & online serving."
-        }
-      ]
-    },
-    {
-      "company": "The Neighborhood",
-      "position": "Full Stack Engineer",
-      "website": "https://www.ilovetheneighnorhood.com",
-      "location":"New York City, NY",
-      "startDate": "05/01/2016",
-      "endDate": "02/28/2017",
-      "summary": "",
-      "highlights": [
-        {
-          "Website Development:":"Developed the start-up's first recurring billing, subscription based eCommerce website using HTML CSS and JavaScript and got the sales going from there. Conducted A/B Tests on website."
-        },
-        {
-          "App Development:":"Also developed an iOS app so that customers can access their coupons from the native app. Used MongoDB ( NoSQL ) to store user’s profile. The app was built using TDD and MVC approach."
-        },
-        {
-          "Data Analysis:":"Using Google analytics studied customer retention and website statistics. This data also helped in generating a revenue of $6000 in the 3rd month, only through website sales."
-        }
-      ]
-    },
-    {
-      "company": "Persistent Systems Limited",
-      "position": "Software Engineer Intern",
-      "website": "https://www.persistent.com/",
-      "location":"Pune, MH, India",
-      "startDate": "05/01/2016",
-      "endDate": "02/28/2017",
-      "summary": "",
-      "highlights": [
-        {
-          "Test Automation Tool:":"Developed a Platform Independent Test Automation Tool using Selenium, Java, TestNG,  Xpath, XML and TDD approach, which resulted in net savings of $7000 in software license costs."
-        },
-        {
-          "Report Generation:":"The results of the test were stored in a SQL database and were converted into PDF and HTML reports. These reports were then sent to the Test Manager and the Software Engineering Team Lead."
-        }
-      ]
-    }
-  ],
-  "Education": [
-    {
-      "institution": "New Jersey Institute of Technology",
-      "country":"USA",
-      "state":"NJ",
-      "city":"Newark",
-      "degree": "Masters of Science",
-      "major": "Computer Science",
-      "startDate": "01/15/2015",
-      "endDate": "12/21/2016",
-      "gpa": "",
-      "courses": [
-        ""
-      ]
-    },
-    {
-      "institution": "University of Pune",
-      "country":"India",
-      "state":"MH",
-      "city":"Pune",
-      "degree": "Bachelor of Engineering",
-      "major": "Information Technology",
-      "startDate": "08/01/2011",
-      "endDate": "05/31/2014",
-      "gpa": "",
-      "courses": [
-        ""
-      ]
-    }
-
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": "",
-      "isbn": ""
-    }
-  ],
+	"basics": 
+		{
+			"first name": "Aditya",
+			"last name": "Satalkar",
+			"label": "",
+			"picture": "https://satalkar.github.io/images/Aditya_Satalkar.JPG.gif",
+			"email": "aditya.satalkar@gmail.com",
+			"phone": "+1(650)-448-8880",
+			"degree": "MS in Computer Science",
+			"website": "https://web.njit.edu/~ars75",
+			"summary": "",
+			"highlights": null,
+			"location": 
+				{
+					"address": "",
+					"postalCode": "",
+					"city": "Iowa City",
+					"countryCode": "+1",
+					"region": ""
+				},
+			"desired salary":"80000",
+			"currency":"USD",
+			"gender":"male",
+			"hispanic/latino":"no",
+			"veteran":"no",
+			"disability":"no",
+			"profiles": [
+				{
+					"network": "LinkedIn",
+					"username": "adityasatalkar",
+					"url": "https://www.linkedin.com/in/adityasatalkar"
+				},
+				{
+					"network": "Facebook",
+					"username": "https://www.facebook.com/adusatalkar",
+					"url": ""
+				},
+				{
+					"network": "Twitter",
+					"username": "Adu.satalkar",
+					"url": "https://www.twitter.com/adusatalkar"
+				},
+				{
+					"network": "Github",
+					"username": "ars75",
+					"url": "https://www.github.com/ars75"
+				}
+			]
+		},
+	"work": [
+		{
+			"company": "ISE",
+			"position": "QA / Software Engineer",
+			"website": "https://www.iseinc.biz/",
+			"location":"Coralville, IA",
+			"startDate": "02/01/2018",
+			"endDate": "present",
+			"summary": "",
+			"highlights": [
+				{
+					"":""
+				},
+				{
+					"":""
+				}
+			]
+		},
+		{
+			"company": "Apprentice",
+			"position": "Augmented Reality Software Engineer",
+			"website": "https://apprentice.io",
+			"location":"Jersey City, NJ",
+			"startDate": "06/01/2017",
+			"endDate": "01/31/2018",
+			"summary": "",
+			"highlights": [
+				{
+					"AWS Setup:":"Setup AWS EC2 Linux Instances, S3 buckets. Wrote Shell scripts to make S3 buckets SOC-2 compliant. Updated ACL of all public access objects so that only authorized users can access. Used JIRA tickets."
+				},
+				{
+					"Computer Vision:":"Optimized existing AR Android app using Java, Gradle to convert Handwritten text to plain text in real time using Machine Learning and Computer Vision. Also stores a text log on S3 with users profile"
+				},
+				{
+					"3D AR Android App:":"Modified existing code base for dynamically accessing data. Used Java, OpenGl, JSON and ARCore for Android, followed SCRUM, MVC, TDD approach. Developed 3D Models in Blender, Unity."
+				},
+				{
+					"RESTful API:":"Developed REST API using MEAN Stack and used Postman to check if the API works."
+				},
+				{
+					"Tethered Automation Software Update for Vuzix M300 Smartglasses:":"Conducted standups. Wrote power shell script, automated process of downloading S3 object & updating Vuzix M300 smart-glass app via command line"
+				}
+			]
+		},
+		{
+			"company": "Stud-E-Buddies",
+			"position": "Software Engineer",
+			"website": "www.studebuddies.info",
+			"location":"New York City, NY",
+			"startDate": "03/01/2017",
+			"endDate": "05/31/2017",
+			"summary": "",
+			"highlights": [
+				{
+					"(AWS) Student Portal:":"Designed student platform using open source Moodle. Developed entire platform using functions provided by Moodle to integrate with the web portal and the iOS app. Website hosted on AWS S3."
+				},
+				{
+					"AI Chat-bot:":"Developed an AI chatbot to help students with course management using API.AI"
+				},
+				{
+					"Course Dashboards:":"Developed instructor dashboards and learner surveying tools using Java Spring, SQL which helped instructors run their class better by providing data on Assignments and Learner Activity."
+				},
+				{
+					"Suggestions System:":"Core service for all recommendation systems at Stud-E-Buddies, currently used on the homepage and throughout the content discovery process. Worked on both offline training & online serving."
+				}
+			]
+		},
+		{
+			"company": "The Neighborhood",
+			"position": "Full Stack Engineer",
+			"website": "https://www.ilovetheneighnorhood.com",
+			"location":"New York City, NY",
+			"startDate": "05/01/2016",
+			"endDate": "02/28/2017",
+			"summary": "",
+			"highlights": [
+				{
+					"Website Development:":"Developed the start-up's first recurring billing, subscription based eCommerce website using HTML CSS and JavaScript and got the sales going from there. Conducted A/B Tests on website."
+				},
+				{
+					"App Development:":"Also developed an iOS app so that customers can access their coupons from the native app. Used MongoDB ( NoSQL ) to store user’s profile. The app was built using TDD and MVC approach."
+				},
+				{
+					"Data Analysis:":"Using Google analytics studied customer retention and website statistics. This data also helped in generating a revenue of $6000 in the 3rd month, only through website sales."
+				}
+			]
+		},
+		{
+			"company": "Persistent Systems Limited",
+			"position": "Software Engineer Intern",
+			"website": "https://www.persistent.com/",
+			"location":"Pune, MH, India",
+			"startDate": "05/01/2016",
+			"endDate": "02/28/2017",
+			"summary": "",
+			"highlights": [
+				{
+					"Test Automation Tool:":"Developed a Platform Independent Test Automation Tool using Selenium, Java, TestNG,  Xpath, XML and TDD approach, which resulted in net savings of $7000 in software license costs."
+				},
+				{
+					"Report Generation:":"The results of the test were stored in a SQL database and were converted into PDF and HTML reports. These reports were then sent to the Test Manager and the Software Engineering Team Lead."
+				}
+			]
+		}
+	],
+	"Education": [
+		{
+			"institution": "New Jersey Institute of Technology",
+			"country":"USA",
+			"state":"NJ",
+			"city":"Newark",
+			"degree": "Masters of Science",
+			"major": "Computer Science",
+			"startDate": "01/15/2015",
+			"endDate": "12/21/2016",
+			"gpa": "",
+			"courses": [
+				""
+			]
+		},
+		{
+			"institution": "University of Pune",
+			"country":"India",
+			"state":"MH",
+			"city":"Pune",
+			"degree": "Bachelor of Engineering",
+			"major": "Information Technology",
+			"startDate": "08/01/2011",
+			"endDate": "05/31/2014",
+			"gpa": "",
+			"courses": [
+				""
+			]
+		}
+	],
+	"publications": [
+		{
+			"name": "",
+			"publisher": "",
+			"releaseDate": "",
+			"website": "",
+			"summary": "",
+			"isbn": ""
+		}
+	],
   "skills": [
-    {
-      "name": "C",
-      "level": "1"
-    },
-    {
-      "name": "C++",
-      "level": "1"
-    },
-    {
-      "name": "C#",
-      "level": "1"
-    },
-    {
-      "name": "Java",
-      "level": "4"
-    },
-    {
-      "name": "Python",
-      "level": "2"
-    },
-    {
-      "name": "HTML",
-      "level": "4"
-    },
-    {
-      "name": "CSS",
-      "level": "3"
-    },
-    {
-      "name": "JavaScript",
-      "level": "2"
-    },
-    {
-      "name": "Bootstrap",
-      "level": "4"
-    },
-    {
-      "name": "PHP",
-      "level": "4"
-    },
-    {
-      "name": "SQL",
-      "level": "4"
-    },
-    {
-      "name": "MySQL",
-      "level": "4"
-    },
-    {
-      "name": "NoSQL",
-      "level": "4"
-    },
-    {
-      "name": "MongoDB",
-      "level": "2"
-    },
-    {
-      "name": "AWS S3",
-      "level": "4"
-    },
-    {
-      "name": "Linux",
-      "level": "3"
-    },
-    {
-      "name": "Blender",
-      "level": "4"
-    },
-    {
-      "name": "Computer Networks",
-      "level": "4"
-    },
-    {
-      "name": "3D Computer Graphics",
-      "level": "4"
-    },
-    {
-      "name": "Augmented Reality",
-      "level": "4"
-    }
-  ]
+		{
+			"name": "C",
+			"level": "1"
+		},
+		{
+			"name": "C++",
+			"level": "1"
+		},
+		{
+			"name": "C#",
+			"level": "1"
+		},
+		{
+			"name": "Java",
+			"level": "4"
+		},
+		{
+			"name": "Python",
+			"level": "2"
+		},
+		{
+			"name": "HTML",
+			"level": "4"
+		},
+		{
+			"name": "CSS",
+			"level": "3"
+		},
+		{
+			"name": "JavaScript",
+			"level": "2"
+		},
+		{
+			"name": "Bootstrap",
+			"level": "4"
+		},
+		{
+			"name": "PHP",
+			"level": "4"
+		},
+		{
+			"name": "SQL",
+			"level": "4"
+		},
+		{
+			"name": "MySQL",
+			"level": "4"
+		},
+		{
+			"name": "NoSQL",
+			"level": "4"
+		},
+		{
+			"name": "MongoDB",
+			"level": "2"
+		},
+		{
+			"name": "AWS S3",
+			"level": "4"
+		},
+		{
+			"name": "Linux",
+			"level": "3"
+		},
+		{
+			"name": "Blender",
+			"level": "4"
+		},
+		{
+			"name": "Computer Networks",
+			"level": "4"
+		},
+		{
+			"name": "3D Computer Graphics",
+			"level": "4"
+		},
+		{
+			"name": "Augmented Reality",
+			"level": "4"
+		}
+	]
 }
